@@ -1,4 +1,4 @@
-# Spam_classification
+# Spam classification
 We will use the SMS Spam Collection dataset from Kaggle to build a classifier.
 
 Over the years E-Mail and phone providers have successfully build anti-spam filters with a high success rate. Spam messages are not only annoying but dangerous. Most of them are send out to steal data from users, in this day and age where technology is evolving people find methods and tricks that actually beat the Anti-Spam filters, e.g. use of random sender addresses. That is why a very good and robust anti-spam filter is essential. 
