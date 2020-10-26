@@ -9,8 +9,8 @@ In this project I want to build a spam classifier on my own, by using the above 
 
 I will seperate the project in to three parts. 
 - First part we will do some Explanatory Data Analysis (EDA), this will help us to study our data.
-- Secondly we will build the three different classifiers using NB, SVM and Knn.
-- Last but not least we will measure the accuracy of each classifier to determin which classifier performs best on our dataset.
+- Secondly we will build the a classifier using Naive Bayes (NB) algorithm.
+- Last but not least we will measure the accuracy of the classifier and give insight on different ways to improve the performance of this classifier.
 
 
 Literature:
